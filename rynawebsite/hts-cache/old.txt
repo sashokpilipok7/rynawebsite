@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:13:35	0/0	---MC-	301	error ('Moved%20Permanently')	text/html	date:Tue,%2011%20Apr%202023%2010:13:32%20GMT	http://watracz.com/robots.txt		(from )
+13:13:35	0/0	---MC-	301	error ('Moved%20Permanently')	text/html	date:Tue,%2011%20Apr%202023%2010:13:32%20GMT	http://watracz.com/	C:/Users/User/projects/rynawebsite/rynawebsite/watracz.com/index.html	(from )

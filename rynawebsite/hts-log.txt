@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 11 Apr 2023 13:14:39 at https://watracz.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://watracz.com/ -O1 "C:\Users\User\projects\rynawebsite\rynawebsite" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:14:39	Warning: 	HTML file (606 bytes) retransferred due to lack of cache: https://watracz.com/
+13:15:37	Error: 	"Not Found" (404) at link https://watracz.com/assets/favicon/apple-touch-icon-57x57.png (from https://watracz.com/)
+13:15:37	Error: 	"Not Found" (404) at link https://watracz.com/assets/favicon/apple-touch-icon-60x60.png (from https://watracz.com/)
+13:15:37	Error: 	"Not Found" (404) at link https://watracz.com/assets/favicon/apple-touch-icon-72x72.png (from https://watracz.com/)
+13:15:37	Error: 	"Not Found" (404) at link https://watracz.com/assets/favicon/apple-touch-icon-76x76.png (from https://watracz.com/)
+13:15:37	Error: 	"Not Found" (404) at link https://watracz.com/assets/favicon/apple-touch-icon-114x114.png (from https://watracz.com/)
+13:15:37	Error: 	"Not Found" (404) at link https://watracz.com/assets/favicon/apple-touch-icon-120x120.png (from https://watracz.com/)
+13:15:37	Error: 	"Not Found" (404) at link https://watracz.com/assets/favicon/apple-touch-icon-144x144.png (from https://watracz.com/)
+13:15:37	Error: 	"Not Found" (404) at link https://watracz.com/assets/favicon/apple-touch-icon-152x152.png (from https://watracz.com/)
+13:15:37	Error: 	"Not Found" (404) at link https://watracz.com/assets/favicon/apple-touch-icon-180x180.png (from https://watracz.com/)
+13:15:37	Error: 	"Not Found" (404) at link https://watracz.com/browserconfig.xml (from https://watracz.com/)
+13:36:12	Error: 	"Not Found" (404) at link https://watracz.com/home (from https://watracz.com/)
+13:36:12	Error: 	"Not Found" (404) at link https://watracz.com/assets/images/icon_select_gray-darkest.svg (from https://watracz.com/css/build.min.css?v=2.5.18)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 minutes 34 seconds : 365 links scanned, 352 files written (72593225 bytes overall), 352 files updated [71447889 bytes received at 55214 bytes/sec], 3459958 bytes transferred using HTTP compression in 71 files, ratio 32%, 69.7 requests per connection
+(12 errors, 1 warnings, 0 messages)
